@@ -1,0 +1,7 @@
+{
+	"pages/list-content.html": {
+		"refer": [
+			"pages/detail.html"
+		]
+	}
+}
